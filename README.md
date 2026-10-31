@@ -43,5 +43,3 @@ All three programs demonstrate:
 * Menu-driven interfaces.
 * Custom analysis functions.
 * Input validation and memory cleanup.
-
-**Author:** Ayomide Shadrach Adeleye
